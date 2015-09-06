@@ -1,5 +1,5 @@
 #----------------Titanic Dataset - Logistic Regression - Ankush Laxmeshwar -----------------------
-#-----------------Unsupervised Learning-----------------------------------------
+#-----------------Kaggle Supervised Learning-----------------------------------------
 
 #Setting working directory for this session to desired location
 setwd("E:\\Analytics\\Titanic Dataset")

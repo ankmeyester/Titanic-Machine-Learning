@@ -1,5 +1,5 @@
 #----------------Titanic Dataset - Logistic Regression - Ankush Laxmeshwar -----------------------
-#-----------------Supervised Learning-----------------------------------------
+#-----------------Cross Validation across same data set-----------------------------------------
 
 # Loading package to read the excel type data provided
 require(xlsx)
