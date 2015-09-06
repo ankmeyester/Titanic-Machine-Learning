@@ -1,4 +1,4 @@
-##Titanic Supervised Learning - Logistic Regression
+##Titanic Cross Validation - Logistic Regression
 
 ######Predict survival of passengers on the Titanic ship.
 
